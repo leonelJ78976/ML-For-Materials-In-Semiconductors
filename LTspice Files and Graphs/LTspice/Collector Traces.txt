@@ -1,0 +1,40 @@
+Silicon (Si)
+•	V_BE ≈ 0.6V to 0.7V
+•	V(n001): The collector voltage.
+•	I(R_b): Current through the base resistor.
+•	I(R_c): Current through the collector resistor (this is the collector current, I_C).
+•	I(R_e): Current through the emitter resistor.
+•	I(V_be): Current through the base-emitter voltage source.
+•	I(V_cc): Current through the power supply (V_CC).
+•	v_be: The base-emitter voltage (increasing from 0.6V to 0.7V).
+
+Gallium Arsenide (GaAs)
+•	V_BE ≈ 0.5V
+•	V(n001): The collector voltage.
+•	I(R_b): Current through the base resistor.
+•	I(R_c): Current through the collector resistor (this is the collector current, I_C).
+•	I(R_e): Current through the emitter resistor.
+•	I(V_be): Current through the base-emitter voltage source.
+•	I(V_cc): Current through the power supply (V_CC).
+•	v_be: The base-emitter voltage (increasing from 0.5V).
+
+Indium Phosphide (InP)
+•	V_BE ≈ 0.6V
+•	V(n001): The collector voltage.
+•	I(R_b): Current through the base resistor.
+•	I(R_c): Current through the collector resistor (this is the collector current, I_C).
+•	I(R_e): Current through the emitter resistor.
+•	I(V_be): Current through the base-emitter voltage source.
+•	I(V_cc): Current through the power supply (V_CC).
+•	v_be: The base-emitter voltage (increasing from 0.6V).
+
+Sodium (Na)
+•	V_BE ≈ 0.5V to 0.6V
+•	V(n001): The collector voltage.
+•	I(R_b): Current through the base resistor.
+•	I(R_c): Current through the collector resistor (this is the collector current, I_C).
+•	I(R_e): Current through the emitter resistor.
+•	I(V_be): Current through the base-emitter voltage source.
+•	I(V_cc): Current through the power supply (V_CC).
+•	v_be: The base-emitter voltage (increasing from 0.5V to 0.6V).
+
