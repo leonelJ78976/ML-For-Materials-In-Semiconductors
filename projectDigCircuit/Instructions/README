@@ -1,0 +1,9 @@
+Please Install the following libraries on the command line:
+
+pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install pymatgen
+pip install matplotlib
+
+Once all is installed, please click on the run button next to the code to see outputs of each material.
